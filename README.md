@@ -2,7 +2,7 @@
 > This is a beta/proof of concept and there might be errors, if the translated scene cant be loaded it will load the default scene if you want to report malfunctioning join the [discord server](https://discord.gg/Wg3pNmmS5J)
 
 # Azur Lane Translation mod
-Azur lane translation using Formidable Mod Loader.
+Azur lane translation using Formidable Mod Loader (version 0.2.0+).
 This repo contains the story (only the story, in a future version i'll add more) translated to spanish, french, italian, portuguese and german.
 
 The translation quality is google translate, im not going to translate manually the game
